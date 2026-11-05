@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    
+    
+
+}
+h4{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 80px;
+    background: #111;
+}
+
+.hero-content {
+    color: white;
+    font-size: 20px;
+}
+
+.hero img {
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.career-objective h2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    
+}
+.education{
+    align-items: center;
+    justify-content: center;
+}
